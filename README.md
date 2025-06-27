@@ -1,4 +1,4 @@
-# 🚀 Shagun Verma - Personal Portfolio Website
+# 🚀 Anshu singh - Personal Portfolio Website
 
 A modern, professional, and visually appealing personal portfolio website built with HTML, CSS, and JavaScript. Perfect for showcasing your skills, projects, and professional presence as a final-year BTech CSE student.
 
